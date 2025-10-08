@@ -111,7 +111,16 @@ showAdAttribution: false,
 renderLargerThumbnail: false,
 thumbnailUrl: image,
 title: "🌟 WELCOME 🌟",
-body: "Bienvenido al grupo 🤗",
+body: "Bienvenido al grupo 🤗
+  ..⃗.•̩̩͙⁺°‹𝟹 !¡ — 𝙋𝙧𝙚𝙨𝙚𝙣𝙩𝙖𝙘𝙞𝙤́𝙣
+
+ ꒰ა໒꒱ ࣪. ⋆ NOMBRE
+—          
+꒰ა໒꒱ ࣪. ⋆ EDAD
+—    
+꒰ა໒꒱ ࣪. ⋆ PAIS
+—
+꒰ა໒꒱ ࣪. ⋆ FOTO O VIDEO TUYO No es obligatorio:*",
 containsAutoReply: true,
 sourceUrl: "https://skyultraplus.com"
 }}}, { quoted: null })
